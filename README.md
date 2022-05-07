@@ -1,6 +1,6 @@
 # BlockswapChallenge 
 
-(Challeng on HackMD)[https://hackmd.io/@vdengltd/HJ7j70kLq]
+[Challenge on HackMD](https://hackmd.io/@vdengltd/HJ7j70kLq)
 
 ## Working Notes
 My understanding of the challenge is that it is primarily a problem of data acquisition and data analysis. As the challenge stated; the objective is to create a script in order to automate the process of identifying arbitrage opportunities by comparing information from the beacon chain and data from the protocol’s subgraph. Specifically; ETH rewards that validators have gained on the beacon chain that haven't been reported on the stakehouse protocol.
